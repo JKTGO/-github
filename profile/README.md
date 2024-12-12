@@ -153,8 +153,8 @@ Proyek ini dikembangkan sebagai bagian dari program:
 
 ## 📫 Contact & Support
 Untuk melaporkan bug atau mendapatkan bantuan:
-- Mobile Development Repository: [GitHub Issues](https://github.com/BariqKhairullah000/JKTGO/issues)
-- Machine Learning Repository: [Waiting for repository link]
+- Mobile Development Repository: [GitHub Issues](https://github.com/JKTGO/JKTGO-MobileDevelopment/issues)
+- Machine Learning Repository: [GitHub Issues](https://github.com/JKTGO/JKTGO-MachineLearning/issues)
 - Email tim pengembang sesuai dengan yang tercantum di atas
 
 ## 🤝 Contributing
@@ -162,8 +162,8 @@ Kami menerima kontribusi untuk pengembangan JKT GO!. Silakan cek repository terk
 
 ## 📚 Documentation
 Dokumentasi lengkap dapat ditemukan di repository masing-masing:
-- [Mobile Development Documentation](https://github.com/BariqKhairullah000/JKTGO)
-- [Machine Learning Documentation](https://github.com/[username]/JKTGO_MachineLearning)
+- [Mobile Development Documentation](https://github.com/JKTGO/JKTGO-MobileDevelopment)
+- [Machine Learning Documentation](https://github.com/JKTGO/JKTGO-MachineLearning)
 
 ## 🔄 Latest Updates
 - Mobile Development: Development of chatbot interface
