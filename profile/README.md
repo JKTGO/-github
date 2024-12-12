@@ -71,7 +71,26 @@ Dual Recommendation System:
    - GitHub: [DikaPrasetia](https://github.com/DikaPrasetia)
 
 ### Machine Learning Team (Bangkit Academy 2024)
-[Waiting for team member information]
+1. Fauzia Tuzzahra
+   - Institusi: Universitas Sriwijaya
+   - Program: Bangkit Academy 2024
+   - Email: fauziatuzzahra99@gmail.com
+   - LinkedIn: [Fauzia Tuzzahra](www.linkedin.com/in/fauzia-tuzzahra)
+   - GitHub: [Fauziazzhra](https://github.com/Fauziazzhra)
+
+2. Akbar Alfaidah
+   - Institusi: Universitas Sriwijaya
+   - Program: Bangkit Academy 2024
+   - Email: akbaralfaidahohs@gmail.com
+   - LinkedIn: [Akbar Alfaidah](www.linkedin.com/in/akbaralfaidah)
+   - GitHub: [akbaralfaidah](https://github.com/akbaralfaidah)
+
+3. Aisyah Fitri
+   - Institusi: Universitas Sriwijaya
+   - Program: Bangkit Academy 2024
+   - Email: aisyahfitriindar@gmail.com
+   - LinkedIn: [Aisyah Fitri](https://www.linkedin.com/in/aisyah-fitri)
+   - GitHub: [AisyahIndar](https://github.com/AisyahIndar)
 
 ## 🛠️ Technology Stack
 
