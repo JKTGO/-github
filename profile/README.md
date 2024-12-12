@@ -12,15 +12,18 @@ Click the badge above to view our detailed project presentation
 </div>
 
 ## 🌟 About The Project
-JKT GO! dirancang untuk mengatasi tantangan utama dalam pariwisata Jakarta:
-- Informasi wisata yang tersebar dan tidak konsisten
+JKT GO! adalah aplikasi berbasis chatbot yang dirancang untuk membantu wisatawan dan warga lokal menjelajahi Jakarta dengan lebih mudah. Aplikasi ini memiliki fitur utama chatbot yang dapat memberikan rekomendasi tempat wisata secara real-time, informasi hotel, harga tiket, dan penilaian lokasi wisata.
+
+### Latar Belakang
+- Jakarta, sebagai salah satu kota metropolitan terbesar di dunia, menghadapi tantangan dalam hal penyebaran informasi wisata yang tersebar dan tidak konsisten
 - Kesulitan menemukan informasi perjalanan yang lengkap dalam satu platform
 - Kebutuhan akan solusi teknologi untuk memudahkan perjalanan di era digital
 - Kurangnya bantuan real-time untuk wisatawan di Jakarta
+- Potensi besar untuk meningkatkan pengalaman wisata melalui teknologi chatbot dan integrasi data terkini
 
 ## 🎯 Our Paths
 
-### 📱 Mobile Development ([Repository](https://github.com/BariqKhairullah000/JKTGO))
+### 📱 Mobile Development ([Repository](https://github.com/JKTGO/JKTGO-MobileDevelopment))
 Native Android application featuring:
 - Chatbot interaktif untuk bantuan wisata
 - Informasi real-time tentang destinasi wisata
@@ -35,7 +38,7 @@ Native Android application featuring:
 - Kotlin dengan MVVM Architecture
 - Version: 1.0 (Build 1)
 
-### 🤖 Machine Learning ([Repository](https://github.com/[username]/JKTGO_MachineLearning))
+### 🤖 Machine Learning ([Repository](https://github.com/JKTGO/JKTGO-MachineLearning))
 Dual Recommendation System:
 1. **Tourism Recommender:**
    - Rekomendasi wisata berdasarkan kategori
@@ -52,6 +55,19 @@ Dual Recommendation System:
 - Natural Language Processing untuk interaksi chatbot
 - Filter pencarian yang fleksibel
 - Analisis real-time
+
+### ☁️ Cloud Computing ([Repository](https://github.com/JKTGO/JKTGO-CC))
+Backend Infrastructure and API Development:
+- RESTful API untuk integrasi layanan
+- Cloud deployment dan hosting
+- Database management
+- Security implementation
+
+**Key Features:**
+- Integrasi dengan Google Cloud Platform
+- API endpoints untuk rekomendasi wisata dan hotel
+- Real-time data processing
+- Secure authentication system
 
 ## 👥 Our Team
 
@@ -92,6 +108,21 @@ Dual Recommendation System:
    - LinkedIn: [Aisyah Fitri](https://www.linkedin.com/in/aisyah-fitri)
    - GitHub: [AisyahIndar](https://github.com/AisyahIndar)
 
+### Cloud Computing Team (Bangkit Academy 2024)
+1. Meidita Salsabila
+   - Institusi: Politeknik Negeri Sriwijaya
+   - Program: Bangkit Academy 2024
+   - Email: meiditasalsabila0205@gmail.com
+   - LinkedIn: [Meidita Salsabila](https://www.linkedin.com/in/meidita-salsabila-72a924326)
+   - GitHub: [MeiditaSalsabila](https://github.com/MeiditaSalsabila)
+
+2. Nur Septi Anggraini
+   - Institusi: Politeknik Negeri Sriwijaya
+   - Program: Bangkit Academy 2024
+   - Email: nurseptianggraini5101@gmail.com
+   - LinkedIn: [Nursepti Anggraini](https://www.linkedin.com/in/nursepti-anggraini-5b31b7322)
+   - GitHub: [Nursepti15](https://github.com/Nursepti15)
+
 ## 🛠️ Technology Stack
 
 ### Mobile Development
@@ -110,6 +141,15 @@ Dual Recommendation System:
 - Pandas for data manipulation
 - Matplotlib for visualization
 
+### Cloud Computing
+- Python 3.10.0
+- Flask Framework
+- Google Cloud Platform
+- RESTful API
+- Visual Studio Code
+- Cloud Storage
+- Cloud Run
+
 ## 📊 Project Structure
 
 ### Mobile Development
@@ -120,18 +160,8 @@ app/
 │   │   ├── java/
 │   │   │   └── com.bangkitbariq.jktgo/
 │   │   │       ├── chatbot/
-│   │   │       │   ├── APIModels.kt
-│   │   │       │   ├── ChatAdapter
-│   │   │       │   ├── ChatbotActivity
-│   │   │       │   ├── ChatbotAPI
-│   │   │       │   ├── ChatbotViewModel.kt
-│   │   │       │   └── ChatMessage
 │   │   │       ├── data/
-│   │   │       │   └── HotelResponse
 │   │   │       └── utils/
-│   │   │           ├── NetworkUtils
-│   │   │           ├── MainActivity
-│   │   │           └── ProfileActivity
 │   │   └── res/
 │   └── androidTest/
 ```
@@ -145,6 +175,20 @@ app/
 │   └── cleaned_dataset_hotel.csv
 ├── Cleaned_dataset.ipynb 
 ├── Model Chatbot.ipynb 
+└── README.md
+```
+
+### Cloud Computing
+```
+/JKTGO-CC
+│
+├── jktgo/
+│   ├── hotel.csv
+│   ├── hotel_recommender.h5
+│   ├── main.py
+│   ├── requirements.txt
+│   ├── tourism_recommender.h5
+│   └── wisata.csv
 └── README.md
 ```
 
@@ -166,6 +210,14 @@ app/
 - Multi-parameter filtering
 - Real-time data processing
 
+### Cloud Computing
+- RESTful API endpoints
+- Secure authentication
+- Cloud storage integration
+- Scalable infrastructure
+- Real-time data processing
+- API documentation
+
 ## 🏢 Supporting Institutions
 Proyek ini dikembangkan sebagai bagian dari program:
 **Bangkit Academy 2024 By Google, GoTo, Tokopedia, Traveloka**
@@ -174,6 +226,7 @@ Proyek ini dikembangkan sebagai bagian dari program:
 Untuk melaporkan bug atau mendapatkan bantuan:
 - Mobile Development Repository: [GitHub Issues](https://github.com/JKTGO/JKTGO-MobileDevelopment/issues)
 - Machine Learning Repository: [GitHub Issues](https://github.com/JKTGO/JKTGO-MachineLearning/issues)
+- Cloud Computing Repository: [GitHub Issues](https://github.com/JKTGO/JKTGO-CC/issues)
 - Email tim pengembang sesuai dengan yang tercantum di atas
 
 ## 🤝 Contributing
@@ -183,11 +236,19 @@ Kami menerima kontribusi untuk pengembangan JKT GO!. Silakan cek repository terk
 Dokumentasi lengkap dapat ditemukan di repository masing-masing:
 - [Mobile Development Documentation](https://github.com/JKTGO/JKTGO-MobileDevelopment)
 - [Machine Learning Documentation](https://github.com/JKTGO/JKTGO-MachineLearning)
+- [Cloud Computing Documentation](https://github.com/JKTGO/JKTGO-CC)
 
 ## 🔄 Latest Updates
 - Mobile Development: Development of chatbot interface
 - Machine Learning: Implementation of recommendation systems
+- Cloud Computing: API development and cloud infrastructure setup
 - Integration: API development and testing
+
+## ✨ Final Note
+
+JKT GO! represents our commitment to revolutionizing Jakarta's tourism through technology. We believe in creating a more accessible and enjoyable travel experience for everyone visiting our capital city. Through the power of AI and modern mobile development, we're making Jakarta's wonders more discoverable than ever.
+
+"Exploring Jakarta, Made Easier with JKT GO!"
 
 ---
 © 2024 JKT GO! - Bangkit Academy Capstone Project
