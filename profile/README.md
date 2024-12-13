@@ -56,7 +56,7 @@ Dual Recommendation System:
 - Filter pencarian yang fleksibel
 - Analisis real-time
 
-### ☁️ Cloud Computing ([Repository](https://github.com/JKTGO/JKTGO-CC))
+### ☁️ Cloud Computing ([Repository](https://github.com/JKTGO/JKTGO-CloudComputing))
 Backend Infrastructure and API Development:
 - RESTful API untuk integrasi layanan
 - Cloud deployment dan hosting
@@ -226,7 +226,7 @@ Proyek ini dikembangkan sebagai bagian dari program:
 Untuk melaporkan bug atau mendapatkan bantuan:
 - Mobile Development Repository: [GitHub Issues](https://github.com/JKTGO/JKTGO-MobileDevelopment/issues)
 - Machine Learning Repository: [GitHub Issues](https://github.com/JKTGO/JKTGO-MachineLearning/issues)
-- Cloud Computing Repository: [GitHub Issues](https://github.com/JKTGO/JKTGO-CC/issues)
+- Cloud Computing Repository: [GitHub Issues](https://github.com/JKTGO/JKTGO-CloudComputing/issues)
 - Email tim pengembang sesuai dengan yang tercantum di atas
 
 ## 🤝 Contributing
@@ -236,7 +236,7 @@ Kami menerima kontribusi untuk pengembangan JKT GO!. Silakan cek repository terk
 Dokumentasi lengkap dapat ditemukan di repository masing-masing:
 - [Mobile Development Documentation](https://github.com/JKTGO/JKTGO-MobileDevelopment)
 - [Machine Learning Documentation](https://github.com/JKTGO/JKTGO-MachineLearning)
-- [Cloud Computing Documentation](https://github.com/JKTGO/JKTGO-CC)
+- [Cloud Computing Documentation](https://github.com/JKTGO/JKTGO-CloudComputing)
 
 ## 🔄 Latest Updates
 - Mobile Development: Development of chatbot interface
