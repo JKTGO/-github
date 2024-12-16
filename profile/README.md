@@ -160,8 +160,18 @@ app/
 │   │   ├── java/
 │   │   │   └── com.bangkitbariq.jktgo/
 │   │   │       ├── chatbot/
+│   │   │       │   ├── APIModels.kt
+│   │   │       │   ├── ChatAdapter
+│   │   │       │   ├── ChatbotActivity
+│   │   │       │   ├── ChatbotAPI
+│   │   │       │   ├── ChatbotViewModel.kt
+│   │   │       │   └── ChatMessage
 │   │   │       ├── data/
+│   │   │       │   └── HotelResponse
 │   │   │       └── utils/
+│   │   │           ├── NetworkUtils
+│   │   │           ├── MainActivity
+│   │   │           └── ProfileActivity
 │   │   └── res/
 │   └── androidTest/
 ```
